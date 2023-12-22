@@ -1,8 +1,8 @@
-# Bug Template
+# Google Chrome extension - Bug Template
 
 ## Description
 
-Copy bug template information based on selected platform.
+Copy in buffer bug template based on selected platform.
 
 ## Features
 
