@@ -6,7 +6,11 @@ Copy bug template information based on selected platform.
 
 ## Features
 
-- ...
+<img width="497" alt="Снимок экрана 2023-12-23 в 00 22 33" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/38b6770b-c293-44b1-a2bc-abfcbabd7188">
+
+<img width="786" alt="Снимок экрана 2023-12-23 в 00 23 51" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/441150aa-ab47-46be-a3b0-2f41b43646b2">
+
+
 
 ## Installation
 
