@@ -2,7 +2,7 @@
 
 ## Description
 
-Copy device information based on selected platform.
+Copy bug template information based on selected platform.
 
 ## Features
 
