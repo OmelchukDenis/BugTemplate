@@ -38,16 +38,14 @@ Set data from buffer:
 2. A popup will appear with options.
 3. Choose a platform and customize the data.
 4. Click "Copy" to copy the data to the clipboard.
-5. (Optional) The extension interacts with a button on the webpage with id `create_link`.
 
-## Customizing Data
+## Change template
 
 To customize the text that appears in the extension, follow these steps:
 
-1. Locate the `data` folder in your extension directory.
-2. Open the `data_ios.json`, `data_aos.json`, or `data_be.json` file based on the platform you want to customize.
-3. Modify the parameter `text` within the file according to your requirements.
-4. Save the changes.
+1. Click "Change template" button.
+2. Change text inside modal window.
+3. Click "Save" to confirm changes.
 
 ## Contributing
 
