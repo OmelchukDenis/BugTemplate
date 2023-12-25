@@ -6,9 +6,22 @@ Copy in buffer bug template based on selected platform.
 
 ## Features
 
-<img width="497" alt="Снимок экрана 2023-12-23 в 00 22 33" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/38b6770b-c293-44b1-a2bc-abfcbabd7188">
+Open extension:
 
-<img width="786" alt="Снимок экрана 2023-12-23 в 00 23 51" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/441150aa-ab47-46be-a3b0-2f41b43646b2">
+<img width="497" alt="Open extension" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/7de50fb0-1f05-4df9-bea2-d0f44ad25e95">
+
+Copy template:
+
+<img width="492" alt="Copy template in buffer" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/88b8c861-997e-45f3-b145-64b1efa7c901">
+
+Change template:
+
+<img width="495" alt="Change template" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/4a5bda72-0513-4d5d-b4e6-a341c5ff1b34">
+<img width="493" alt="Success change template" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/77b6e3a3-a91c-427a-bbf9-12fa70ef3d8f">
+
+Set data from buffer:
+
+<img width="786" alt="Set data from buffer" src="https://github.com/OmelchukDenis/BugTemplate/assets/22324885/441150aa-ab47-46be-a3b0-2f41b43646b2">
 
 
 
