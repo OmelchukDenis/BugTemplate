@@ -1,4 +1,0 @@
-{
-    "platform": "ios",
-    "text": "*Device*: \n * iPhone X, iOs 14.6\n * iPhone 15 Pro Max, iOs 17.2\n\n*Build*: Leobank.DEV 1.5. ()\n\n*Steps to reproduce*:\n # Go to register a new customer\n # Go to step\n\n*Actual result*:\n\n*Expected result*:"
-}
