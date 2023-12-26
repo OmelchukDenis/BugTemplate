@@ -109,9 +109,9 @@ function initializeLocalStorageDefaults() {
 function getDefaultBugReportText(platform) {
   switch (platform) {
     case 'ios':
-      return "*Device*: \n * iPhone X, iOs 14.6\n * iPhone 15 Pro Max, iOs 17.2\n\n*Build*: Leobank.DEV 1.5. ()\n\n*Steps to reproduce*:\n # Go to register a new customer\n # Go to step\n\n*Actual result*:\n\n*Expected result*:";
+      return "*Device*: \n * iPhone X, iOs 14.6\n * iPhone 15 Pro Max, iOs 17.2\n\n*Build*: Build.Environment v1.5.0 ()\n\n*Steps to reproduce*:\n # Go to \n\n*Actual result*:\n\n*Expected result*:";
     case 'android':
-      return "*Device*: Pixel 4a, Android 13\n\n*Build*: Leobank.DEV 1.5. ()\n\n*Steps to reproduce*:\n # Go to register a new customer\n # Go to step\n\n*Actual result*:\n\n*Expected result*:";
+      return "*Device*: Pixel 4a, Android 13\n\n*Build*: Build.Environment v1.5.0 ()\n\n*Steps to reproduce*:\n # Go to \n\n*Actual result*:\n\n*Expected result*:";
     case 'backend':
       return "*Steps to reproduce*:\n\n*Actual result*:\n\n*Expected result*:\n\n*Request/Response*:";
     default:
